@@ -4,7 +4,7 @@
 <a href="https://img.shields.io"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg"></a> 
 <a href="https://img.shields.io"><img src="https://img.shields.io/badge/C++-Learing-red.svg"></a>
 <a href="https://img.shields.io"><img src="https://img.shields.io/badge/Creative-Design%26Build-blue.svg"></a>
-<a href="https://img.shields.io"><img src="https://img.shields.io/badge/Miles-Lee-Computer%20Science-brightgreen.svg"></a>
+<a href="https://img.shields.io"><img src="https://img.shields.io/badge/MileLee-Computer%20Science-brightgreen.svg"></a>
 
 This is the supporting documents and notes for the truman CS180 course
 
