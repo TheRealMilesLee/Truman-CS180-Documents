@@ -36,3 +36,23 @@ About Dr.Beck: http://borax.truman.edu/
 contact me: hl3265@truman.edu
 
 About the Truman State University: https://www.truman.edu/
+
+# Terms and concepts
+
+Chapter 1
+
+In this chapter, it just telling about the basics of how computer work, here is 5 important part that needs to be take care of:
+
+1. Hardware components: What construct the computer
+
+2. Main memory: the random access memory and its address
+
+3. Kinds of values that can be stored in the memory: Like the integers, floating number and the string.
+
+4. The language that be used to programming: For this course, we only learn C++.
+
+Chapter 2
+
+In this chapter, the variables and the data types were the two most important parts that we learned in this chapter. The data types is a set of values with a set of operations that defined values. In the C++ language, we have various values, e.g. integer, char, string, float, bool and so on.
+
+Also, in this chapter, we mentioned about the operations that you can do in the c++ language. The unary minus, addition, subtraction, and the multiplication just work as the way you think
