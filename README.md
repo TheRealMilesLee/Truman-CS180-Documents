@@ -39,7 +39,9 @@ About the Truman State University: https://www.truman.edu/
 
 # Terms and concepts
 
-Chapter 1
+This is the full term and the concepts notes in the Fall 2019, CS180 course.
+
+#### Chapter 1
 
 In this chapter, it just telling about the basics of how computer work, here is 5 important part that needs to be take care of:
 
@@ -51,8 +53,20 @@ In this chapter, it just telling about the basics of how computer work, here is 
 
 4. The language that be used to programming: For this course, we only learn C++.
 
-Chapter 2
+#### Chapter 2
 
 In this chapter, the variables and the data types were the two most important parts that we learned in this chapter. The data types is a set of values with a set of operations that defined values. In the C++ language, we have various values, e.g. integer, char, string, float, bool and so on.
 
-Also, in this chapter, we mentioned about the operations that you can do in the c++ language. The unary minus, addition, subtraction, and the multiplication just work as the way you think
+Also, in this chapter, we mentioned about the operations that you can do in the c++ language. The unary minus, addition, subtraction, and the multiplication just work as the way you think. 
+
+#### Chapter 3
+ 
+In this chapter,the stream extraction operator is the most important part among this chapter, it reads data from standard input and converts it to the type of the variable. The mathematical operations are avilable from the <cmath> library, including the pow function. What's more the overflow and the underflow can result from arithmetic operations. Mixtype to do the math is not recommend, if you really need to do that, please use the static_cast<> to cast the types.
+
+For the formatting, output, you can use the setw(), fixed, setprecision() and the showpoint functions to reformatting the output files.
+
+Chapter 4
+
+In this chapter, what your need to take care of is the relational operators and the bool type. The if, if-else, if-elseif-else were also the most important idea points in this chapter.
+
+For the if statement, the logical operators is the anoty
