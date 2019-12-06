@@ -65,8 +65,25 @@ In this chapter,the stream extraction operator is the most important part among 
 
 For the formatting, output, you can use the setw(), fixed, setprecision() and the showpoint functions to reformatting the output files.
 
-Chapter 4
+### Chapter 4
 
 In this chapter, what your need to take care of is the relational operators and the bool type. The if, if-else, if-elseif-else were also the most important idea points in this chapter.
 
-For the if statement, the logical operators is the anoty
+For the if statement, the logical operators is the another keypart of this operators. For these operators, one should extrememly take care of, that is the && operator and the || operator happens in the same if declearation. like, if you want to state "A equal to B or A equal to C" you should write "if (A == B || A == C)" instead of "if (A == B || C)". 
+
+And here is the truth table below:
+ ------------------           ------------------        ----------   
+ | a | b | a && b |           | a | b | a || b |        | a | !a |
+ ------------------           ------------------        ----------
+ | T | F |    F   |           | T | F |    T   |        | T |  F | 
+ | F | T |    F   |           | F | T |    T   |        | F |  T |
+ | F | F |    F   |           | F | F |    F   |        ----------- 
+ | T | T |    T   |           | T | T |    T   |
+ ------------------           ------------------
+
+
+
+ ### Chapter 5
+
+ This chapter is mostly telling about the loop structure. Two most important loop: while loop and the do-while loop. The while loop is a pretest loop, its body executes zero or more times. But the do-while loop is a post-test loop, it will always execute at least once, the do-while loop is more often used for input validation. You can control the loop with the boolean flags
+
