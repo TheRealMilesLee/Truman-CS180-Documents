@@ -73,16 +73,7 @@ For the if statement, the logical operators is the another keypart of this opera
 
 And here is the truth table below:
 
- ------------------           ------------------        ----------
- | a | b | a && b |           | a | b | a || b |        | a | !a |
- ------------------           ------------------        ----------
- | T | F |    F   |           | T | F |    T   |        | T |  F |
- | F | T |    F   |           | F | T |    T   |        | F |  T |
- | F | F |    F   |           | F | F |    F   |        -----------
- | T | T |    T   |           | T | T |    T   |
- ------------------           ------------------
-
-
+![Truth Table]()
 
  ### Chapter 5
 
