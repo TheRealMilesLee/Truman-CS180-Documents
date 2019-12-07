@@ -72,12 +72,13 @@ In this chapter, what your need to take care of is the relational operators and 
 For the if statement, the logical operators is the another keypart of this operators. For these operators, one should extrememly take care of, that is the && operator and the || operator happens in the same if declearation. like, if you want to state "A equal to B or A equal to C" you should write "if (A == B || A == C)" instead of "if (A == B || C)". 
 
 And here is the truth table below:
- ------------------           ------------------        ----------   
+
+ ------------------           ------------------        ----------
  | a | b | a && b |           | a | b | a || b |        | a | !a |
  ------------------           ------------------        ----------
- | T | F |    F   |           | T | F |    T   |        | T |  F | 
+ | T | F |    F   |           | T | F |    T   |        | T |  F |
  | F | T |    F   |           | F | T |    T   |        | F |  T |
- | F | F |    F   |           | F | F |    F   |        ----------- 
+ | F | F |    F   |           | F | F |    F   |        -----------
  | T | T |    T   |           | T | T |    T   |
  ------------------           ------------------
 
