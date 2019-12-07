@@ -77,5 +77,9 @@ And here is the truth table below:
 
  ### Chapter 5
 
- This chapter is mostly telling about the loop structure. Two most important loop: while loop and the do-while loop. The while loop is a pretest loop, its body executes zero or more times. But the do-while loop is a post-test loop, it will always execute at least once, the do-while loop is more often used for input validation. You can control the loop with the boolean flags
+ This chapter is mostly telling about the loop structure. Two most important loop: while loop and the do-while loop. The while loop is a pretest loop, its body executes zero or more times. But the do-while loop is a post-test loop, it will always execute at least once, the do-while loop is more often used for input validation. You can control the loop with the boolean flags. Also, in this chapter, we also mentioned about the for loop. this loop is and only for the situation that you have already know the number of loop iterations. This loop is another pretestloop
+
+ Never use "break" or continue with loops, NEVER return from a loop.
+
+ If you want to open a file, you can use the ifstream to open it, and after you finish the file operations, don't forget to close the file
 
