@@ -73,7 +73,7 @@ For the if statement, the logical operators is the another keypart of this opera
 
 And here is the truth table below:
 
-![Truth Table]()
+![Truth Table](https://github.com/TheRealMilesLee/Truman-CS180-Documents/blob/master/Truth%20Table.png)
 
  ### Chapter 5
 
