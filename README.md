@@ -87,4 +87,8 @@ And here is the truth table below:
 
 In this chapter, we talked about the functions and the function design. A function that can proper used must have function prototype, function body, parameters, Javadoc and the functions call in the main function.
 
-Pass by reference & pass by value: The pass by reference is basically like a pointer that just a alias of another variable, the pass by value is get a copy of the variable\
+Pass by reference & pass by value: The pass by reference is basically like a pointer that just a alias of another variable, the pass by value is get a copy of the variable.
+
+#### Chapter 7
+
+In this chapter, we talked about the array.
