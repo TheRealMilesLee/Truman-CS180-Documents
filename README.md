@@ -91,4 +91,4 @@ Pass by reference & pass by value: The pass by reference is basically like a poi
 
 #### Chapter 7
 
-In this chapter, we talked about the array.
+In this chapter, we talked about the array.In this section, for the arrray part, we need to know the way to declare and initialize the array and know the range based loop. Know the 
